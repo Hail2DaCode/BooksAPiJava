@@ -1,0 +1,17 @@
+.super {
+	margin: 0 auto;
+	width: 1000px;
+	
+}
+body {
+	background-color: blanchedalmond;
+}
+p {
+	color: blueviolet;
+	font-weight: 700;
+	font-size: 24pt;
+}
+h1 {
+	font-size: 32pt;
+	text-decoration: underline;
+}
